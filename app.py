@@ -1,6 +1,6 @@
-def subtract(x,y):
-  return(x-y)
-print (subtract(5,4))
+def multiply(x,y):
+  return(x*y)
+print (multiply(5,4))
 
 
 
